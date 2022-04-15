@@ -1,0 +1,26 @@
+/*  font-family: 'Ubuntu', sans-serif; */
+/* Change Brand Font */
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+}
+/* Change Navigation Color */
+/*.navbar  .custom-nav .nav-item a {
+  color: rgb(199, 44, 44);
+}
+.navbar .custom-nav .nav-item a:hover{
+  color: #10a352;
+}
+/* Make Header Image Responsive */
+*back-image {
+    height: 200px;
+    width: 400px;
+    background-color: powderblue;
+    background-position: center;
+    background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+}
+
